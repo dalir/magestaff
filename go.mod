@@ -1,4 +1,4 @@
-module github/dalir/magestaff
+module github.com/dalir/magestaff
 
 go 1.14
 
